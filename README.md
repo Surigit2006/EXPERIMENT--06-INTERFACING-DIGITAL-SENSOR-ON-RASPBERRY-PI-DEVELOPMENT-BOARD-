@@ -79,7 +79,7 @@ open thonny python and writhe the python script as shown below
 
 ### PYTHON SCRIPT 
  
-`
+```
 
 
 import time
@@ -106,13 +106,15 @@ while True:
     time.sleep(2.0)`
 
 
-
+```
 
 
 
 ## SCREENSHOT OF THE OUPT AND CIRCUIT 
+![WhatsApp Image 2025-05-15 at 11 45 27_6c22ed6b](https://github.com/user-attachments/assets/693189af-352a-4455-952b-bd3bd5b6624a)
 
 
+![Uploading WhatsApp Image 2025-05-15 at 11.45.27_a4214eaf.jpg…]()
 
 
     
